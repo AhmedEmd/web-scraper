@@ -9,7 +9,7 @@ This application is a web scraper and summarizer that uses Streamlit for the int
 2. Clone this repository to your local machine:
    ```
    git clone https://github.com/AhmedEmd/web-scraper.git
-   cd web-scraper-summarizer
+   cd web-scraper
    ```
 
 3. Create a virtual environment:
